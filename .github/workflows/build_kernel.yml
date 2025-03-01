@@ -19,7 +19,7 @@ Build Kernel #22
 Jobs
 Run details
 Workflow file for this run
-.github/workflows/build_kernel.yml at cb4dc1d
+.github/workflows/build_kernel.yml
 name: Build Kernel
 on:
   workflow_dispatch:
